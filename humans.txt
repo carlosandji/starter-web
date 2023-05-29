@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Carlos Andres	carlosandji@gmail.com	@carlosandji
 
 # THANKS
 
